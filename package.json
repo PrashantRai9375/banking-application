@@ -1,0 +1,34 @@
+{
+  "name": "banking-application",
+  "version": "1.0.0",
+  "description": "Basic Banking functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantRai9375/banking-application.git"
+  },
+  "author": "Prashant Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantRai9375/banking-application/issues"
+  },
+  "homepage": "https://github.com/PrashantRai9375/banking-application#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bluebird": "^3.7.2",
+    "cors": "2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "4.17.1",
+    "fs": "0.0.1-security",
+    "json2xls": "^0.1.2",
+    "jsonwebtoken": "8.5.1",
+    "mysql2": "2.1.0",
+    "nodemailer": "^6.4.17",
+    "path": "0.12.7",
+    "redis": "3.0.2",
+    "sequelize": "^6.5.0"
+  }
+}
